@@ -1,1 +1,1 @@
-# projekt-04-recepty-reseni
+# Řešení projektu č. 4
